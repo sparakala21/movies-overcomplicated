@@ -1,0 +1,17 @@
+{
+    "movies":
+    [
+        {
+            "name": "Harakiri",
+            "rating": "SS"
+        },
+        {
+            "name": "Laapata Ladies",
+            "rating": "SS"
+        },
+        {
+            "name": "American Pie",
+            "rating": "S"
+        }
+    ]
+}

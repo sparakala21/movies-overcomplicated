@@ -1,0 +1,19 @@
+{
+  "name": "movies-overcomplicated",
+  "version": "1.0.0",
+  "description": "movies shockingly overcomplicated",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sparakala21/movies-overcomplicated.git"
+  },
+  "author": "Sravan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sparakala21/movies-overcomplicated/issues"
+  },
+  "homepage": "https://github.com/sparakala21/movies-overcomplicated#readme"
+}
